@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 // TODO
+
+<img src="https://canva.link/2tj4a9c77z286af" alt="banner that says Orgil Davaadorj - software engineer | ... | ...">
