@@ -14,15 +14,19 @@ Looking to collaborate on: C/C++ projects, systems programming, and open-source 
 
 Areas of interest: Backend development, high-performance systems, and software optimization.
 
-**Technical Skills**
 
-Languages: C, C++
+## Technical Skills
 
-Tools: Git, GitHub, GDB, VS Code
+**Programming Languages**
 
-Operating Systems: Linux, Windows, macOS
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
-Core Concepts: Object-Oriented Programming, Data Structures & Algorithms, Memory Management, Debugging
+**Development Tools & Platforms**
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,windows,apple)](https://skillicons.dev)
+
+**Core Concepts**
+
+Data Structures & Algorithms • Object-Oriented Programming • Memory Management • Debugging
 
 
