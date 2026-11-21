@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Orgil 👋
+### Computer Science Student at UIC | C/C++ | Systems Programming
+
+Welcome to my GitHub! I'm passionate about software engineering, problem-solving, and understanding how software works at a deeper level.
 
 <img width="1500" height="500" alt="___" src="https://github.com/user-attachments/assets/cbd27af4-2a27-41fe-8e0f-12d325d08b73" />
 
